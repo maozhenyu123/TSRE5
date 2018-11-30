@@ -1,0 +1,9 @@
+First, open any pros file in QtCreator. 
+
+Try to build, this will not work but produce a new Makefile script.
+
+Open the project in Netbeans, configure your compiler. 
+
+OpenAL32.framework should be added to the project
+
+

@@ -12,6 +12,7 @@
 #define	OSMFEATURES_H
 
 #ifdef __APPLE__
+#include <string>
 #include <OpenAL/al.h>
 #include <OpenAL/alc.h>
 #else
